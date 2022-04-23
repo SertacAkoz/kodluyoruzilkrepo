@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) NodeJS Eğitiminde oluşturduğ
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/SertacAkoz/kodluyoruzilkrepo
+git clone https://github.com/SertacAkoz/kodluyoruzilkrepo.git
 ```
 
 ## Usage
